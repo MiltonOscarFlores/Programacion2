@@ -2,7 +2,7 @@
 
 
 """
-A partir de ls siguiente lista instanciar una tupla que contenga todos sus valores
+A partir de la siguiente lista instanciar una tupla que contenga todos sus valores
 y en el mismo orden.
 """
 

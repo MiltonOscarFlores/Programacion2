@@ -87,3 +87,5 @@ print(variable_06)
 # COMPLETAR - FIN
 
 assert variable_06 is False
+
+# DONE
